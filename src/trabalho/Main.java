@@ -7,6 +7,8 @@ public class Main {
 
     static void main() {
 
+        //Teve partes q eu usei IA pq não tava conseguindo fazer antes do prazo
+
         ArrayList<Usuario> usuarios = new ArrayList<>();
         ArrayList<Livro> livros = new ArrayList<>();
 
