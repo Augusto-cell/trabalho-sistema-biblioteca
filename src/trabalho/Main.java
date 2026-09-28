@@ -37,7 +37,7 @@ public class Main {
             System.out.println("[0] Sair");
 
             opcao = scanner.nextInt();
-            scanner.nextLine(); // limpa o Enter que o nextInt deixa para trás
+            scanner.nextLine();
 
             switch (opcao) {
 
